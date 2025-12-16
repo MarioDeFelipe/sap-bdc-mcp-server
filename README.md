@@ -6,7 +6,7 @@
 
 An MCP (Model Context Protocol) server that provides integration with SAP Business Data Cloud (BDC) Connect SDK. This server enables AI assistants like Claude to interact with SAP BDC for data sharing, Delta Sharing protocol operations, and data product management.
 
-> **Status**: Initial Release - Ready for validation testing
+> **Status**: ✅ Released on PyPI - v0.1.0 (2025-12-16)
 
 ## Features
 
@@ -29,25 +29,24 @@ This MCP server exposes the following SAP BDC capabilities:
 
 ### Installation
 
+#### From PyPI (Recommended)
+
+```bash
+pip install sap-bdc-mcp-server
+```
+
+#### From Source
+
 ```bash
 # Clone the repository
 git clone https://github.com/MarioDeFelipe/sap-bdc-mcp-server.git
 cd sap-bdc-mcp-server
-```
 
-### 2. Install Dependencies
-
-```bash
+# Install in development mode
 pip install -e .
 ```
 
-Or for development:
-
-```bash
-pip install -e ".[dev]"
-```
-
-### 3. Configure Environment
+### Configuration
 
 Copy the example environment file and configure it:
 

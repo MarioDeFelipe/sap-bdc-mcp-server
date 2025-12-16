@@ -230,7 +230,7 @@ Details TBD after PyPI is stable.
 ### Live URLs:
 - **Repository**: https://github.com/MarioDeFelipe/sap-bdc-mcp-server
 - **Issues**: https://github.com/MarioDeFelipe/sap-bdc-mcp-server/issues
-- **PyPI**: `https://pypi.org/project/sap-bdc-mcp-server/` (after release)
+- **PyPI**: https://pypi.org/project/sap-bdc-mcp-server/
 
 ### Documentation
 - Full docs: [README.md](README.md)
