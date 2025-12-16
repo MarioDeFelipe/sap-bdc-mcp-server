@@ -75,8 +75,8 @@ Send Kiro:
 ### Step 1: Clone and Install (5 minutes)
 
 ```bash
-# Clone the repository (use the URL Mario sends you)
-git clone https://github.com/MARIO_USERNAME/sap-bdc-mcp-server.git
+# Clone the repository
+git clone https://github.com/MarioDeFelipe/sap-bdc-mcp-server.git
 cd sap-bdc-mcp-server
 
 # Create virtual environment
@@ -227,9 +227,9 @@ Details TBD after PyPI is stable.
 
 ## Quick Reference URLs
 
-### After Mario publishes, update these:
-- **Repository**: `https://github.com/YOUR_USERNAME/sap-bdc-mcp-server`
-- **Issues**: `https://github.com/YOUR_USERNAME/sap-bdc-mcp-server/issues`
+### Live URLs:
+- **Repository**: https://github.com/MarioDeFelipe/sap-bdc-mcp-server
+- **Issues**: https://github.com/MarioDeFelipe/sap-bdc-mcp-server/issues
 - **PyPI**: `https://pypi.org/project/sap-bdc-mcp-server/` (after release)
 
 ### Documentation

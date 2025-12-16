@@ -31,7 +31,7 @@ This MCP server exposes the following SAP BDC capabilities:
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/sap-bdc-mcp-server.git
+git clone https://github.com/MarioDeFelipe/sap-bdc-mcp-server.git
 cd sap-bdc-mcp-server
 ```
 
@@ -299,9 +299,9 @@ Contributions are welcome! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for det
 
 ## Support
 
-- **Issues**: [GitHub Issues](https://github.com/YOUR_USERNAME/sap-bdc-mcp-server/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/YOUR_USERNAME/sap-bdc-mcp-server/discussions)
-- **Documentation**: [Wiki](https://github.com/YOUR_USERNAME/sap-bdc-mcp-server/wiki)
+- **Issues**: [GitHub Issues](https://github.com/MarioDeFelipe/sap-bdc-mcp-server/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/MarioDeFelipe/sap-bdc-mcp-server/discussions)
+- **Documentation**: [Wiki](https://github.com/MarioDeFelipe/sap-bdc-mcp-server/wiki)
 
 ## Acknowledgments
 
